@@ -1,3 +1,9 @@
 HELLO
 
+
 test1 - no commit -> rebase
+
+
+
+test2 - will rebase
+
