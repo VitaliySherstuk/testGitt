@@ -3,4 +3,4 @@
 
 `build` : `test`
 
-`![#f03c15]vgvg`
+`![f03c15]vgvg`
