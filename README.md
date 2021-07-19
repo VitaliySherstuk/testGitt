@@ -1,10 +1,4 @@
 # testGitt
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+https://img.shields.io/badge/<LABEL>-vasy-RED
