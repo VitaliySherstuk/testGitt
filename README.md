@@ -1,4 +1,6 @@
 # testGitt
 
 
-`[#f03c15]build` : `test`
+`build` : `test`
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
