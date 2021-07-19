@@ -1,4 +1,4 @@
 # testGitt
 
 
-`build`:`test`
+`build` : `test`
