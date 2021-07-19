@@ -1,4 +1,4 @@
 # testGitt
 
 
-npm i --save jgjljd     
+`build`:`test`
