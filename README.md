@@ -1,4 +1,4 @@
 # testGitt
 
 
-@octocat    
+npm i --save jgjljd     
