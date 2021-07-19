@@ -1,4 +1,6 @@
 # testGitt
 
 
-markdown.markdown(some_text, extensions=[MyExtClass(), 'myext', 'path.to.my.ext:MyExtClass'])
+#!python
+#
+def wiki_rocks(text): formatter = lambda t: "funky"+t return formatter(text)        
