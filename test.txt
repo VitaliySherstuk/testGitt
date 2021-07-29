@@ -12,3 +12,5 @@ test3 - checkout to master without commit
 commit 21.06.02 -1
 
 hi-1
+
+hi-2
